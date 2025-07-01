@@ -6,7 +6,7 @@ In this level, we’re told the next password is in the `-` file in the home dir
 
 ### Walkthrough
 
-Since we’re already in the home directory (as we landed here after logging in from level 0; if you're not you can use the command `cd ~` to go to the home directory), we can list the files in the directory using:
+Since we’re already in the home directory (as we landed here after logging in from the previous level; if you're not you can use the command `cd ~` to go to the home directory), we can list the files in the directory using:
 
 ```bash
 ls
