@@ -1,4 +1,4 @@
-## Bandit Level 24 — TOBENAMED
+## Bandit Level 24 — Bash Scripting
 
 ### Description
 
