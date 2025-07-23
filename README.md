@@ -2,7 +2,6 @@
 # OverTheWire Bandit Writeups
 
 This repository contains detailed writeups for every level of the OverTheWire Bandit wargame.
-Note: I'm currently trying to update this repo and complete all the levels.
 
 ## About Bandit
 
